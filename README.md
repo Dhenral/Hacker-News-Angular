@@ -58,7 +58,7 @@ yarn start
 
 ## Author
 
-👤 **Francesco Giambruno**
+
 
 * Github: (https://github.com/Dhenral)
 
