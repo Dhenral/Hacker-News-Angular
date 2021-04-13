@@ -1,11 +1,5 @@
 # hacker-news-angular
 
-[![Build Status](https://travis-ci.org/dj0nny/hacker-news-angular.svg?branch=develop)](https://travis-ci.org/dj0nny/hacker-news-angular)
-[![npm version](https://badge.fury.io/js/%40angular%2Fcore.svg)](https://badge.fury.io/js/%40angular%2Fcore)
-[![npm version](https://badge.fury.io/js/typescript.svg)](https://badge.fury.io/js/typescript)
-![GitHub top language](https://img.shields.io/github/languages/top/dj0nny/hacker-news-angular)
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
-[![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/dj0nny/hacker-news-angular#readme)
 
 > Hacker news clone built with Angular
 
@@ -23,9 +17,9 @@ yarn global add @angular/cli
 
 Clone the repository using **Git**:
 ```bash
-git clone https://github.com/dj0nny/hacker-news-angular
+git clone https://github.com/Dhenral/Hacker-News-Angular
 ```
-Or download [here](https://github.com/dj0nny/hacker-news-angular/archive/develop.zip).
+Or download [here](https://github.com/Dhenral/Hacker-News-Angular/archive/develop.zip).
 
 ### Install
 
@@ -60,18 +54,13 @@ yarn start
 - [ ] Fetch the **news comments** from the API and create the components
 - [ ] Create the routes for the pages
 - [ ] Fetching from API and creating components for:
-  - [ ] newest
-  - [ ] ask
-  - [ ] show
-  - [ ] jobs
-- [ ] Deploy on [Netlify](https://netlify.com)
+
 
 ## Author
 
 👤 **Francesco Giambruno**
 
-* Twitter: [@Dj0nny96](https://twitter.com/Dj0nny96)
-* Github: [@dj0nny](https://github.com/dj0nny)
+* Github: (https://github.com/Dhenral)
 
 ## Built with :heart: using
 * [Angular](https://angular.io/) - _One framework.
@@ -81,7 +70,7 @@ Mobile & desktop._
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check [issues page](https://github.com/dj0nny/hacker-news-angular/issues).
+Feel free to check [issues page](https://https://github.com/Dhenral/Hacker-News-Angular/issues).
 
 ## Show your support
 
